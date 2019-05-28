@@ -48,11 +48,10 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1>Welcome to our Cat's App</h1>
+          <h1>[Adopt me]</h1>
         </div>
         <div className="App-intro">
-          <p> This is a list of the psychopaths under the form of cats.</p>
-          <p> I wrote this in React! </p>
+          <p> We need our adorable && compatible owners!</p>
         </div>
         <div className="App-body">
           {Cats.map((element) => {
