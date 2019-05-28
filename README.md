@@ -1,4 +1,4 @@
-# CoderSchool FTW - Todo List
+# CoderSchool FTW - *Adopt me*
 
 Created with :blue_heart: by: Anh Nguyen
   
@@ -28,13 +28,14 @@ THE USER is
 [//]: # (* [x] List anything else that you can get done to improve the page!)
 
 ## Time Spent and Lessons Learned
-* Geting familiar with new React syntax, terms: props and state, components
+* Getting familiar with new React syntax, terms: props and state, components
+* Managing js files under node_modles (default directory under auto-genarated react repository)
 
 
 
 ## Describe any challenges encountered while building the app.
 * How to setup libraries and dependencies for React on Linux OS (Ubuntu 18.04.2 bionic)
-* Encounter several issue with npm
+* Encounter several issue with npm, import bootstrap components under react repository
 
 ## License
 
